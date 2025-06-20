@@ -1,4 +1,5 @@
 🛒 E-commerce Website
+
 This is a fully responsive, multi-page E-commerce website built using HTML, CSS, and JavaScript. The project is designed to simulate a real-world online shopping experience, featuring product listings, category filters, shopping cart functionality, and a user-friendly UI/UX.
 
 🔧 Features
